@@ -21,8 +21,8 @@ Selamat datang ke profil GitHub saya! Saya baru sahaja bermula dalam dunia penga
 ---
 
 ## 📫 Hubungi Saya
-- **LinkedIn:** [Profil LinkedIn Anda](https://linkedin.com/in/username-anda)
-- **Email:** afifwafi@example.com
+- **LinkedIn:** https://www.linkedin.com/in/afif-wafi-bin-dahlan-094a76363/?isSelfProfile=true
+- **Email:** afifwafi@graduate.com
 
 ---
 
