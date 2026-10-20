@@ -6,7 +6,7 @@ Selamat datang ke profil GitHub saya! Saya baru sahaja bermula dalam dunia penga
 
 ## 🚀 Mengenai Saya
 - 🎓 **Matlamat:** Sedang mempelajari asas GitHub dan pembangunan perisian.
-- 💡 **Minat:** [Sebutkan minat anda, contoh: Web Development / Mobile App / Data Science]
+- 💡 **Minat:** Web Development
 - 🌱 **Sedang Belajar:** HTML, CSS, JavaScript, Git & GitHub
 - 💬 **Tanya saya tentang:** Asas-asas yang baru saya pelajari!
 
