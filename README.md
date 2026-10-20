@@ -1,7 +1,5 @@
 # Hi  👋, Saya Afif Wafi!
 
-![Profil Afif Wafi](Gambar.jpeg)
-
 Selamat datang ke profil GitHub saya! Saya baru sahaja bermula dalam dunia pengaturcaraan dan pembangunan perisian.
 
 ---
