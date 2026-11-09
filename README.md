@@ -1,7 +1,7 @@
 <div align="center">
   <img src="Gambar.jpeg" alt="Foto Profil Afif Wafi" width="160" style="border-radius: 50%;">
   
-<h1> # Hi  👋, Saya Afif Wafi!
+<h1> Hi  👋, Saya Afif Wafi!
 
 Selamat datang ke profil GitHub saya! Saya baru sahaja bermula dalam dunia pengaturcaraan dan pembangunan perisian.
 
