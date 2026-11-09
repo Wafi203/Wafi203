@@ -27,7 +27,7 @@ Selamat datang ke profil GitHub saya! Saya baru sahaja bermula dalam dunia penga
 ---
 
 ### 📊 Statistik GitHub Saya
-![Afif's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Wafi203&show_icons=true&theme=radial)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Wafi203&theme=dark)
 
 <!--
 **Wafi203/Wafi203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
