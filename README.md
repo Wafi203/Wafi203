@@ -1,3 +1,4 @@
+<img src="Gambar.jpeg" alt="Profil Afif Wafi" width="180" style="border-radius: 50%;">
 # Hi  👋, Saya Afif Wafi!
 
 Selamat datang ke profil GitHub saya! Saya baru sahaja bermula dalam dunia pengaturcaraan dan pembangunan perisian.
